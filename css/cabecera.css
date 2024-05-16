@@ -1,26 +1,29 @@
 nav {
-    background: linear-gradient(#D121FF, #9D00CF);
+  background: linear-gradient(#d121ff, #9d00cf);
 }
 
 h1 {
-    color: white;
-    font-size: 60px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: italic;
-    font-weight: 800;
-    display: flex;
-    text-align: center;
-    justify-content: center;
+  color: white;
+  font-size: 60px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: 800;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin-left: 350px !important;
 }
 
 .caja_slogan {
-    color:#9D00CF;
-    font-weight: bold;
-    display: flex;
-    justify-content: center;
-    text-align: center;
-    background: white;
-    overflow: hidden;
-    padding: 5px;
-    border-radius: 30px;
+  color: #9d00cf;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background: white;
+  overflow: hidden;
+  padding: 5px;
+  border-radius: 30px;
+  margin-right: 400px !important;
+  margin-top: 100px;
 }

@@ -31,3 +31,30 @@
 .arrow {
   height: 50px;
 }
+
+.divAitor:hover {
+  background-color: rgb(0, 255, 55);
+  opacity: 1;
+}
+
+#imgAitor {
+  transition: filter 0.4s ease;
+}
+
+.divDiego:hover {
+  background-color: purple;
+  opacity: 1;
+}
+
+#imgDiego {
+  transition: filter 0.4s ease;
+}
+
+.divElsa:hover {
+  background-color: blue;
+  opacity: 1;
+}
+
+#imgElsa {
+  transition: filter 0.4s ease;
+}
