@@ -15,6 +15,7 @@ h1 {
 
 .caja_slogan {
     color:#9D00CF;
+    font-weight: bold;
     display: flex;
     justify-content: center;
     text-align: center;

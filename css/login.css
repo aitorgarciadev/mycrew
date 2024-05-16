@@ -53,8 +53,12 @@ footer {
 }
 
 input {
+  border: 1px solid white;
   opacity: 0.5;
-  border: 1px solid white !important;
-  border-radius: 10px !important;
+  border-radius: 10px;
   color: white;
+}
+
+.btn {
+  font-weight: bold;
 }

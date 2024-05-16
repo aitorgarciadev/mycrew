@@ -1,0 +1,11 @@
+#tools {
+    margin-top: 200px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logos {
+    width: 80px;
+    height: 80px;
+}
