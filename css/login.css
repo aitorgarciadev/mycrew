@@ -1,0 +1,51 @@
+body {
+  background-color: black;
+}
+
+nav {
+  background: linear-gradient(#d121ff, #9d00cf);
+}
+
+h1 {
+  color: white;
+  font-size: 60px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: 800;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.caja_slogan {
+  color: #9d00cf;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background: white;
+  overflow: hidden;
+  padding: 5px;
+  border-radius: 30px;
+}
+
+.card {
+  background-color: #9d00cf;
+  height: 500px;
+}
+
+footer {
+  background: linear-gradient(#d121ff, #9d00cf);
+  height: 100px;
+}
+.footercontent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footertext {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  display: flex;
+  text-align: center;
+}
