@@ -1,0 +1,19 @@
+.card-group {
+    margin-top: 200px;
+    column-count: 3;
+    column-gap: 150px;
+}
+
+.card-index {
+    height: 420px;
+    border: 1px solid white;
+    border-radius: 15px !important;
+    background: linear-gradient(rgba(255,255,255, .5), rgba(157, 0, 207, .5));
+    color: white;
+}
+
+h5 {
+    font-size: 26px;
+    display: block;
+    text-align: center;
+}
