@@ -35,7 +35,7 @@ h1 {
 
 footer {
   background: linear-gradient(#d121ff, #9d00cf);
-  height: 100px;
+  height: 50px;
 }
 .footercontent {
   display: flex;
